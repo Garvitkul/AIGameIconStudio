@@ -6,7 +6,7 @@ The user interface is designed to be premium, minimalist, and aesthetic, providi
 
 ## 🚀 Description
 
-The core of this application is a state-of-the-art AI model (`[proximasanfinetuning/fantassified_icons_v2](https://huggingface.co/proximasanfinetuning/fantassified_icons_v2)`) that has been specifically fine-tuned to create fantasy icons. This allows for the rapid generation of assets like swords, potions, shields, and magical artifacts, all with a consistent and beautiful art style.
+The core of this application is a state-of-the-art AI model [proximasanfinetuning/fantassified_icons_v2](https://huggingface.co/proximasanfinetuning/fantassified_icons_v2) that has been specifically fine-tuned to create fantasy icons. This allows for the rapid generation of assets like swords, potions, shields, and magical artifacts, all with a consistent and beautiful art style.
 
 The goal is to solve the "asset bottleneck" in early game development, where the need for custom art can slow down prototyping. With this tool, you can go from an idea to a visual asset in seconds.
 
