@@ -182,7 +182,6 @@ if st.session_state.generated_images:
 st.divider()
 with st.expander("About This Project"):
     st.write("""
-        This application is created for the **Zynga AI Hackathon**. 
         
         It uses the `proximasanfinetuning/fantassified_icons_v2` model from Hugging Face, 
         running locally via `PyTorch` and `Diffusers`. The user interface is built with `Streamlit`.
